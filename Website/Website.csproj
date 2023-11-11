@@ -2090,6 +2090,7 @@
     <Content Include="Controllers\fonts\icomoon\style.css" />
     <Content Include="Controllers\images\about.jpg" />
     <Content Include="Controllers\images\about1.jpg" />
+    <Content Include="Controllers\images\aslide.jpg" />
     <Content Include="Controllers\images\bg_1.jpg" />
     <Content Include="Controllers\images\blog_1.jpg" />
     <Content Include="Controllers\images\blog_2.jpg" />
